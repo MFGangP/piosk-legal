@@ -1,0 +1,14 @@
+title: Piosk 법적 고지
+description: Piosk(피오스크) 앱의 개인정보 처리방침과 이용약관
+lang: ko
+theme: minima
+url: https://mfgangp.github.io
+baseurl: /piosk-legal
+minima:
+  skin: auto
+header_pages:
+  - privacy.md
+  - terms.md
+show_excerpts: false
+exclude:
+  - README.md
